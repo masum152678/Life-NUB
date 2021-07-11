@@ -1,0 +1,198 @@
+body{
+    padding:0px 80px;
+}
+
+
+.submit-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    color: rgb(18, 18, 133);
+    box-shadow: 5px 5px 10px gray;
+    padding:40px;
+}
+
+h1{
+    margin-top: 50px;
+    color: rgb(18, 18, 133);
+}
+#login{
+    margin-top: -5px;
+}
+.ask-for-registration{
+    margin-left: 35px;
+    padding-top: 10px;
+}
+
+.boxView{
+    height: 535px;
+    width: 600px;
+    /* background-color: darkblue; */
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 325px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: black;
+    box-shadow: 5px 1px 15px gray;
+    border: 2px gray;
+}
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=date], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=email], select{
+      width: 49.5%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+  }
+  
+  input[type=password], select{
+    width: 49.5%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.content input[type=text], select{
+    width: 340px;
+}
+legend.classLegend {
+    width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+}
+
+button{
+    margin-top:15px;
+    padding: 5px;
+    background-color: white;
+    color: balck;
+    border-radius: 5px;
+
+}
+
+.heading{
+    text-align: center;
+}
+.heading h1{
+    color: rgb(18, 18, 133);
+    margin-top: 15px;
+}
+.logo img{
+    height: 30px;
+    width: 30px;
+}
+
+.container{
+    margin-bottom: 40px;
+}
+
+#banner-image img{
+    margin-top: 20px;
+    height: 550px;
+    width: 100%;
+}
+.my-nav{
+    
+}
+.cat1, .cat2, .cat3{
+    color: #ffffff;
+    /* border: 2px solid gray; */
+    height: 365px;
+    border-radius: 10px;
+}
+
+
+/* item2 */
+.item1, .item2, .item3{
+    color: rgb(18, 18, 133);
+    /* border: 2px solid gray; */
+    height: 80px;
+    border-radius: 10px;
+    box-shadow: 5px 1px 15px gray;
+}
+
+.bottomconent{
+    height: 50px;
+    color:white;
+    border-radius: 5px;
+    border: 1px solid gray;
+    justify-content: center;
+
+}
+.bottomconent p{
+    padding-top: 10px;
+    text-align: center;
+
+}
+.bottomconent a{
+    color:#eecccc;
+}
+
+#Registration-area{
+    display: none;
+}
+#main-body{
+    display: none;
+}
+
+
+.cat3-title{
+    text-align: center;
+}
+.cat3-title h2{
+    font-weight: regular;
+}
+.card-1 .card-2{
+   
+    height: 120px;
+    border: 2px solid white;
+}
+.cat3 .card-1 img{
+    height: 100%;
+    width: 100%;
+    padding-left: 0;
+}
+.cat3 .card-body h5{
+    color:rgb(18, 18, 133);
+}
+
+.cat3 .more{
+    text-align: center;
+}
+.cat3 .more p a{
+    color:white;
+    padding-bottom: 10px;
+}
+
+.content2 a{
+    text-align: center;
+    padding-left: 95px;
+    color: white;
+}
+.content img{
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+}
